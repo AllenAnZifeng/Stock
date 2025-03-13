@@ -1,0 +1,1 @@
+(data source)[https://www.macrotrends.net/stocks/charts/QQQ/invesco-qqq/stock-price-history]
